@@ -1,0 +1,12 @@
+                     Customer:           Niko
+                         Items        Charges
+                         ~~~~~        ~~~~~~~
+                 Room Charges:        $607.50
+        Special Meals Charges:         $30.00
+                    Telephone:      $4,005.00
+         Miscelaneous Charges:      $3,030.00
+                     Subtotal:      $7,672.50
+                          Tax:        $613.80
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Total Charges:      $8,286.30
+
